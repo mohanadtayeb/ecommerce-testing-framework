@@ -234,7 +234,7 @@ This project serves as a **comprehensive demonstration** of software testing and
 **Project Author**: Mohanad Tayeb  
 **Purpose**: Software Testing & QA Skills Demonstration  
 **LinkedIn**: [Connect with me](https://linkedin.com/in/your-profile)  
-**Portfolio**: [View more projects](https://your-portfolio.com)
+**Portfolio**: [View more projects](https://mohanad-tayeb.netlify.app/)
 
 ---
 
